@@ -1,3 +1,8 @@
+r1ght00 — Official Repository
+
+Welcome to r1ght00, the official project repository associated with r1ghtoo.
+
+Explore my personal portfolio, engineering interests, technical projects, coding experiments, and learning journey.
 <!--
   GitHub Profile README
   Profile README repository: https://github.com/r1ghtoo/r1ght00
